@@ -49,3 +49,8 @@ printName.apply(myName2, ["London", "United Kingdom.."]);
 
 //bind() Method example .......
 
+let bindedMethod = printName.bind(myName, "Malysia", "Singapore");
+console.log("Binded Method Example - "+ bindedMethod)
+bindedMethod();
+
+
