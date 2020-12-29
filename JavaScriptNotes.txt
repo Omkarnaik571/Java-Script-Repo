@@ -1,0 +1,20 @@
+
+To Run a Java Script File Locally :-
+---------------------------------
+
+Go to the directory location & then type  =============>  node fileName.js
+
+1. Switching to a Drive ==> Drivename:
+
+2. Changing a fileLocation ==> cd Filename
+
+Java Script Short cuts on Windows :-
+----------------------------------
+
+1. To Open command Pattel - Ctrl + Shift + P
+
+2. To Format file - shift + Alt + F
+
+3. To Open a new Tab on Side - Ctrl + \
+
+4. 
